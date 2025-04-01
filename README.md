@@ -1,6 +1,4 @@
-# Password-checker
-
-# Documentation for `check_password_strength` Function
+# Documentation for `Password Checker`
 
 ## Overview
 The `check_password_strength` function is designed to evaluate the strength of a given password based on several criteria, including length, use of uppercase and lowercase letters, digits, and special characters. It provides a strength rating ("Weak", "Moderate", or "Strong") along with actionable feedback to help users improve their password security.
